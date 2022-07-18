@@ -8,6 +8,12 @@ h1{
     font-size: 70px;
 }
 #obiwan1{
-    color: orange;
-    background-color: aquamarine;
+    color: white;
+    background-color: dodgerblue;
+}
+.obiwandiv{
+    display: flex;
+}
+.obiwantext{
+    display: block;
 }
